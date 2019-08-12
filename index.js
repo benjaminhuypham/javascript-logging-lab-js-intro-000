@@ -1,1 +1,1 @@
-var word = 'bird'l
+var word = 'bird';
